@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+    font-family: "Aeonik";
+    src: url("../public/fonts/Aeonik.otf");
+}
+
+@font-face {
+    font-family: "AeonikBold";
+    src: url("../public/fonts/Aeonik-Bold.otf");
+}
+
+@font-face {
+    font-family: "Telma";
+    src: url("../public/fonts/Telma.otf");
+}
+
+@font-face {
+    font-family: "Maloney";
+    src: url("../public/fonts/Maloney.ttf");
+}
+@tailwind utilities;
