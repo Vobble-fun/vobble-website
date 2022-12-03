@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://vobble.fun</loc>
+    <lastmod>2022-12-03T17:18:29.409Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://vobble.fun/ourjourney</loc>
+    <lastmod>2022-12-03T17:18:29.409Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:4001/sitemap.xml</loc>
+    <lastmod>2022-12-03T17:18:29.409Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
