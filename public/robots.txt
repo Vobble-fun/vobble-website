@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://vobble.fun/sitemap.xml
