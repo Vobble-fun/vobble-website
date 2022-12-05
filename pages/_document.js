@@ -8,7 +8,7 @@ class MyDocument extends Document {
                     <link rel="preconnect" href="https://fonts.googleapis.com" />
                     <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
                     <link href="https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap" rel="stylesheet" />
-                    <meta charset="utf-8" />
+                    <meta charSet="utf-8" />
                     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                     <meta property="og:title" content="Vobble | Screen Free Audio Stories with learn and play activities for Kids" />
                     <meta property="og:site_name" content="Vobble" />
