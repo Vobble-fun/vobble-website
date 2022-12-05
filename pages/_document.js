@@ -19,7 +19,7 @@ class MyDocument extends Document {
                     <meta name="next-head-count" content="10" />
                     <meta name="robots" content="index, follow" />
                     <meta name="description" content="Vobble is the best Screen-free immersive audio stories and music platform for kids 3-8 years old." />
-                    <meta name="keywords" content="Screen free activities, Vobble audio stories, audio stories, screen free audio stories, screen free stories, stories for children, stories for kids, kids stories, children stories, Vobble" />
+                    <meta name="keywords" content="Screen free activities, Vobble audio stories, audio stories, screen free audio stories, screen free stories, stories for children, stories for kids, kids stories, children stories, Vobble, vobble fun, vobble" />
                     <meta name="author" content="Vobble" />
 
                     <link rel="preconnect" href="https://fonts.googleapis.com" />
